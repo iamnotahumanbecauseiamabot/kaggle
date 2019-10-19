@@ -2,6 +2,6 @@
 my kaggle codes
 
 using skmem:
-import skmem
-mr = skmem.MemReducer()
-train = mr.fit_transform(train)
+import skmem </br>
+mr = skmem.MemReducer()</br>
+train = mr.fit_transform(train)</br>
